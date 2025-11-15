@@ -1014,11 +1014,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\herod\\OneDrive\\Desktop\\W01-Dynamic-Arrays\\week01\\code\\code.csproj",
+      "projectUniqueName": "C:\\Users\\herod\\OneDrive\\Desktop\\W01-Dynamic-Arrays\\week02\\code\\code.csproj",
       "projectName": "code",
-      "projectPath": "C:\\Users\\herod\\OneDrive\\Desktop\\W01-Dynamic-Arrays\\week01\\code\\code.csproj",
+      "projectPath": "C:\\Users\\herod\\OneDrive\\Desktop\\W01-Dynamic-Arrays\\week02\\code\\code.csproj",
       "packagesPath": "C:\\Users\\herod\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\herod\\OneDrive\\Desktop\\W01-Dynamic-Arrays\\week01\\code\\obj\\",
+      "outputPath": "C:\\Users\\herod\\OneDrive\\Desktop\\W01-Dynamic-Arrays\\week02\\code\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\herod\\AppData\\Roaming\\NuGet\\NuGet.Config"

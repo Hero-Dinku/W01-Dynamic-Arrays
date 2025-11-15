@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k/JG0joEWhs=",
+  "dgSpecHash": "ZGRV1Kf4kb8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\herod\\OneDrive\\Desktop\\W01-Dynamic-Arrays\\week01\\code\\code.csproj",
+  "projectFilePath": "C:\\Users\\herod\\OneDrive\\Desktop\\W01-Dynamic-Arrays\\week02\\code\\code.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\herod\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",
     "C:\\Users\\herod\\.nuget\\packages\\microsoft.net.test.sdk\\17.6.0\\microsoft.net.test.sdk.17.6.0.nupkg.sha512",
